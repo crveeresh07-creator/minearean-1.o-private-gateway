@@ -1,0 +1,6 @@
+{
+  "name": "Privacy Gateway – DPDP-Ready AI Gateway",
+  "description": "DPDP-compliant privacy gateway for enterprise LLMs with PyMuPDF extraction, Indian PII masking, pre-flight leak check, and local de-anonymization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
